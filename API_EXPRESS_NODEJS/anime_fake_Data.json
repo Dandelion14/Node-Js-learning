@@ -1,0 +1,12 @@
+[
+    { "id": 1, "title": "Spy x Family", "genre": ["Action","Comedy"], "episodes": 25, "rating": 8.5 },
+    { "id": 2, "title": "Naruto", "genre": ["Action","Adventure"], "episodes": 220, "rating": 8.3 },
+    { "id": 3, "title": "One Piece", "genre": ["Adventure","Fantasy"], "episodes": 1000, "rating": 9.0 },
+    { "id": 4, "title": "Snow White with the Red Hair", "genre": ["Romance","Fantasy"], "episodes": 24, "rating": 7.7 },
+    { "id": 5, "title": "The Detective Is Already Dead", "genre": ["Mystery","Drama"], "episodes": 12, "rating": 6.5 },
+    { "id": 6, "title": "Death Note", "genre": ["Thriller","Supernatural"], "episodes": 37, "rating": 9.0 },
+    { "id": 7, "title": "Attack on Titan", "genre": ["Action","Drama"], "episodes": 88, "rating": 9.1 },
+    { "id": 8, "title": "Demon Slayer", "genre": ["Action","Fantasy"], "episodes": 44, "rating": 8.7 },
+    { "id": 9, "title": "Jujutsu Kaisen", "genre": ["Action","Supernatural"], "episodes": 47, "rating": 8.8 },
+    { "id": 10, "title": "Fullmetal Alchemist: Brotherhood", "genre": ["Adventure","Fantasy"], "episodes": 64, "rating": 9.2 }
+]
